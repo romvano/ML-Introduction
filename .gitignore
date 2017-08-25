@@ -1,0 +1,9 @@
+*.swp
+*.swo
+~*
+.~*
+*.mp4
+*.txt
+*.jpg
+!parrots.jpg
+Introduction
